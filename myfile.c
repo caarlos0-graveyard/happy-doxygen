@@ -37,7 +37,7 @@ blah_name (JNIEnv * env, jobject * obj, char *name)
 void
 my_fn (JNIEnv * env, jobject * obj, int number)
 {
-   // code
+
 }
 
 void
