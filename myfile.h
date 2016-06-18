@@ -17,11 +17,4 @@
  */
 void my_fn (JNIEnv * env, jobject * obj, int number);
 
-/**
- * Blah blah blah
- * @param env Java Environment
- * @param obj Object
- */
-void my_fn2 (JNIEnv * env, jobject * obj);
-
 #endif

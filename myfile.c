@@ -26,9 +26,3 @@ my_fn (JNIEnv * env, jobject * obj, int number)
 {
 
 }
-
-void
-my_fn2 (JNIEnv * env, jobject * obj)
-{
-
-}
