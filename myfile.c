@@ -50,12 +50,23 @@ blah_name (JNIEnv * env, jobject * obj, char *name)
   return 1
 }
 
+/**
+ * Blah blah blah
+ * @param env Java Environment
+ * @param obj Obj
+ * @param number Number
+ */
 void
 my_fn (JNIEnv * env, jobject * obj, int number)
 {
    // code
 }
 
+/**
+ * Blah blah blah
+ * @param env Java Environment
+ * @param obj Object
+ */
 void
 my_fn2 (JNIEnv * env, jobject * obj)
 {

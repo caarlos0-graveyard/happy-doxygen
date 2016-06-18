@@ -31,7 +31,6 @@
  * @param env Java Environment
  * @param obj Obj
  * @param number Number
- * @retval void
  */
 void my_fn (JNIEnv * env, jobject * obj, int number);
 
