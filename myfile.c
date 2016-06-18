@@ -21,19 +21,6 @@ something_has_blah (jobject * obj)
   return true;
 }
 
-/**
- * Blah blah blah
- * @param env Java Environment
- * @param obj Object
- * @param name Char buffer
- * @return Number of bytes
- */
-static int
-blah_name (JNIEnv * env, jobject * obj, char *name)
-{
-  return 1
-}
-
 void
 my_fn (JNIEnv * env, jobject * obj, int number)
 {
