@@ -1,0 +1,1 @@
+this is a full reproducible of the error reported in http://stackoverflow.com/questions/37900027/doxygen-complains-on-void-function
