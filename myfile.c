@@ -25,6 +25,7 @@
  */
 #include <jni.h>
 #include <stdio.h>
+#include "myfile.h"
 
 /**
  * Blah blah blah.
