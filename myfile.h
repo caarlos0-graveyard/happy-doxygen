@@ -6,8 +6,8 @@
  *
  * @brief  Some Brief.
  */
-#ifndef FUNCTIONS_H_BIND_INCLUDED
-#define FUNCTIONS_H_BIND_INCLUDED
+#ifndef MYFILE_H_INCLUDED
+#define MYFILE_H_INCLUDED
 
 /**
  * Blah blah blah
