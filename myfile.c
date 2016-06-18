@@ -24,10 +24,7 @@
  * @brief  Some Brief.
  */
 #include <jni.h>
-#include <stdbool.h>
 #include <stdio.h>
-#include <string.h>
-#include <pthread.h>
 
 /**
  * Blah blah blah.
